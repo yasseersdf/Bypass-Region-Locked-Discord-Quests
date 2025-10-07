@@ -10,7 +10,7 @@
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b37d223e-56a5-434f-8daa-6021d4cc58f8" />
 
-### Browser Extension ― [Urban VPN Proxy](https://example.com]https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)    
+### Browser Extension ― [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon)    
 [Video tutorial](https://www.youtube.com/watch?v=MF4UstBTODs)
 
 1. Install the extension to your browser.
