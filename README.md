@@ -47,5 +47,4 @@ ___________________________________________
 `*Note: Orbs Quests are not available on mobile.*`
 
 
-Join now !
-Discord Quest Notifications Server | https://discord.gg/6zbzGuZJKQ
+
