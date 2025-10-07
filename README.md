@@ -1,17 +1,11 @@
-## ***1. To ensure you never miss any Discord Quests, please follow these steps carefully.***
-
- *Settings > Data & Privacy > In-Game Rewards (aka Quests)* is Enabled ✅
 
 
 
-## ***2. The most Region-Locked Quests in:***
-- USA
-- Canada
-- Brazil
 
 
 
-## ***3. How to Access Region-Locked Quests.***                                  
+
+## ***- How to Access Region-Locked Quests.***                                  
 
 
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b37d223e-56a5-434f-8daa-6021d4cc58f8" />
@@ -46,5 +40,11 @@ ___________________________________________
 
 `*Note: Orbs Quests are not available on mobile.*`
 
+____________________________________________
+
+## ***- The most Region-Locked Quests in:***
+- USA
+- Canada
+- Brazil
 
 
